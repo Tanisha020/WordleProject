@@ -41,13 +41,6 @@ Keyboard Support
 
 Screen Reader Support
 
-
-
-## Screenshots
-
-![Screenshot](  "Gameplay Screenshot")
-
-
 ## FAQ
 
 #### Question 1: What is "Wordle" game?
